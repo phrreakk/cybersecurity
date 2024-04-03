@@ -1,5 +1,5 @@
 # Working with files in Python
-with open("login_attempts.txt", "r") as file:
+with open(".\login_attempts.txt", "r") as file:
     file_text = file.read()
 print(file_text)
 
@@ -16,5 +16,5 @@ def login_check(login_list, current_user):
     else:
         return "You can log in!"
     
-login_response = login_check(users, "hpotter")
+login_response = login_check(users, "mgreen")
 print(login_response)
