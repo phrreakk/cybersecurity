@@ -1,0 +1,70 @@
+<mxfile modified="2024-05-14T17:53:43.676Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="x3_aTq075L2g0S5aJtlD" version="24.4.0" type="device">
+  <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
+    <mxGraphModel dx="1109" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-40" value="Homelab rack equipment layout" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-10" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_3;" vertex="1" parent="1">
+          <mxGeometry x="664" y="529" width="73" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-11" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=descend;flipV=1;flipH=1;direction=west;fillOpacity=100;rackUnitSize=17.8;" vertex="1" parent="1">
+          <mxGeometry x="279" y="189" width="340" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-12" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="21" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-4" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl662a_aruba_6300m_24_port_1gbe_class_4_poe_4_port_sfp56_switch;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="38.8" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-8" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl658a_aruba_6300m_24_port_sfpplus_and_4_port_sfp56_switch;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="56.6" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-13" value="Cable Management" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="110" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-5" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="127.80000000000001" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-2" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r240;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="163.4" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-1" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r240;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="181.20000000000002" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-14" value="PDU" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="gKDkJk7mLFJLjE5n9NsQ-11">
+          <mxGeometry x="33" y="341.40000000000003" width="298" height="17.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fruit-136/64/Fruit_iconfree_Filled_Outline_raspberry-healthy-organic-food-fruit_icon-128.png" vertex="1" parent="1">
+          <mxGeometry x="94" y="109" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-18" value="24pt Patch Panel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="212" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-19" value="24pt Engenius PoE Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="229" width="144" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-20" value="24pt Dell 8024F SFP+ 10Gb Switch (Rear mount)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617" y="245" width="273" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-21" value="Raspberry Pi 4 (Home assistant/Zwave) (Wall mounted)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214" y="129" width="300" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-22" value="48pt Dell 5548 1Gb Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="319" width="154" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-23" value="Dell R430 PVE02 (SSD)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="616" y="353" width="139" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-26" value="Dell R430 PVE03 (SSD)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="616" y="373" width="139" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gKDkJk7mLFJLjE5n9NsQ-27" value="Dell T320 PVE01 (SSD/HDD)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="531" width="166" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
