@@ -2,5 +2,8 @@
 
 Cyber Security Projects
 
-SIEM Home Lab
+Segmented Home Lab
 ![Test Embedding draw.io](./homelab/homelabscrubbed.png)
+
+SIEM Home Lab
+!(./homelab/siemdiagram.png)
