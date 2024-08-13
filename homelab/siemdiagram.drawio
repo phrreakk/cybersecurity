@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-13T15:49:21.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.4.0" etag="ELHvLVX69CbLR_bCKd4O" type="device">
+<mxfile host="app.diagrams.net" modified="2024-08-13T15:52:41.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.4.0" etag="Z7X3F-wv1GC89CiSLZcE" type="device">
   <diagram id="f2uWHqWzoCCnwStKNrx7" name="Page-1">
     <mxGraphModel dx="1154" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -151,6 +151,9 @@
               <mxPoint x="963" y="207" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a4QrIwvavqWG9LXhM2An-43" value="SIEM Home Lab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="465" y="20" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
