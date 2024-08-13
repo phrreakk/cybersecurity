@@ -3,4 +3,4 @@
 Cyber Security Projects
 
 SIEM Home Lab
-[![Test Embedding draw.io](./homelab/homelabscrubbed.drawio)]
+[![Test Embedding draw.io](./homelab/homelabscrubbed.png)]
